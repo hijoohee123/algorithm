@@ -13,9 +13,9 @@
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-HelloWorld",
+            "name": "Debug (Launch)",
             "request": "launch",
-            "mainClass": "HelloWorld"
+            "mainClass": "Main"
         }
     ]
 }
